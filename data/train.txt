@@ -1,0 +1,10 @@
+data/obj_train_data/Screenshot 2023-05-02 154603.png
+data/obj_train_data/Screenshot 2023-05-02 162442.png
+data/obj_train_data/Screenshot 2023-05-12 160159.png
+data/obj_train_data/Screenshot 2023-05-12 160209.png
+data/obj_train_data/Screenshot 2023-05-12 160218.png
+data/obj_train_data/Screenshot 2023-05-12 160234.png
+data/obj_train_data/Screenshot 2023-05-12 160241.png
+data/obj_train_data/Screenshot 2023-05-12 160250.png
+data/obj_train_data/Screenshot 2023-05-12 160256.png
+data/obj_train_data/Screenshot 2023-05-12 170510.png
