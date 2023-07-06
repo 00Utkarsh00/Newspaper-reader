@@ -32,4 +32,4 @@ Use the provided training dataset, which includes annotated images.
 To create your own dataset, capture images of newspapers and annotate them using any annotation software, converting them into a YOLO-compatible format.
 Note: Make sure to follow the instructions and adjust the code to suit your specific needs.
 
-Feel free to customize and improve the description based on your project's specific details and requirements.
+
