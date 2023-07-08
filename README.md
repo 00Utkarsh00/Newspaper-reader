@@ -4,6 +4,8 @@
 ## Description
 This project utilizes YOLOv8 and other techniques to read newspapers. It identifies headings, subheadings, text bodies, and images from newspaper images or videos and converts them into an audio file for convenient listening. The project ensures the content is read in the correct order, following the hierarchy of headings, subheadings, and main text.
 
+<picture><img src = "demo/Screenshot 2023-05-24 133156.png?raw=true" width = 550px></picture> 
+
 ### The following steps give breakdown of the the project:
 
 ### 1. Identifying components:
